@@ -33,6 +33,11 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:image.png</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:TheBrain</loc>
 		<lastmod>2022-04-16</lastmod>
 		<changefreq>monthly</changefreq>
@@ -65,6 +70,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:非常时期囤货手册</loc>
 		<lastmod>2022-12-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:预测</loc>
+		<lastmod>2022-12-14</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
